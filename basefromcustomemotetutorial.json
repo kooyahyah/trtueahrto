@@ -1,0 +1,29 @@
+{
+    "Name": "",
+    "Icon": "https://fortnite.gg/img/items/3744/icon.png?2",
+    "Swapicon": "https://fortnite.gg/img/items/3694/icon.png?2",
+    "Message": "Made by Milf Sommelier",
+    "Assets": [
+      {
+        "AssetPath":"",
+        "Swaps": [
+            {
+                "type": "string",
+                "search": "",
+                "replace": "",
+                "UEFN": true
+            }
+        ]
+      },
+      {
+          "AssetPath": "",
+          "AssetPathTo": ""
+      }
+    ],
+    "Downloadables": [
+        {
+          "zip": ""
+       }
+     ]
+  }
+  
